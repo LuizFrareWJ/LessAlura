@@ -1,0 +1,37 @@
+@import url(https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css);
+.default {
+  text-align: center;
+  color: #8aa4be;
+  margin: 15px 0;
+  border: 1px solid #8aa4be;
+}
+.border {
+  border: 1px solid #8aa4be;
+}
+.container {
+  width: 90%;
+  margin: 15px auto;
+}
+.container a {
+  color: #233140;
+  background: #8aa4be;
+  border: 3px solid #233140;
+}
+.container a:hover {
+  color: #11181f;
+  background: #698bac;
+  border: 3px solid #11181f;
+}
+header {
+  text-align: center;
+  color: #8aa4be;
+  margin: 15px 0;
+  border: 1px solid #8aa4be;
+  background: #ffffff;
+}
+footer {
+  text-align: center;
+  color: #8aa4be;
+  margin: 15px 0;
+  border: 1px solid #8aa4be;
+}
